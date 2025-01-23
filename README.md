@@ -23,6 +23,7 @@ To set up the project locally, follow these steps:
 
 2. Navigate to the Project Directory:
 
+   ```bash
   cd Weather_Prediction
 
 3. Install Dependencies:
