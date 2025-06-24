@@ -21,14 +21,33 @@ To set up the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/Preksha-0211/Weather_Prediction.git
+   ```
 
-2. Navigate to the Project Directory:
+2. **Navigate to the Project Directory**:
 
    ```bash
    cd Weather_Prediction
+   ```
 
-3. Install Dependencies:
+3. **Install Dependencies**:
 
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+1. **Launch the Jupyter interface** (choose one):
+
+   ```bash
+   jupyter notebook
+   # or
+   jupyter lab
+   ```
+
+2. **Run training or prediction scripts** *(if added later)*:
+
+   ```bash
+   python train.py     # train the model
+   python predict.py   # generate predictions
+   ```
