@@ -6,3 +6,4 @@ matplotlib
 missingno
 scipy
 numpy
+pytest
