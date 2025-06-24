@@ -10,6 +10,7 @@ The Weather Prediction project leverages machine learning algorithms to forecast
 - **Data Preprocessing**: Cleans and prepares data for modeling.
 - **Model Training**: Utilizes machine learning algorithms to train predictive models.
 - **Prediction**: Provides forecasts for future weather conditions.
+- **Visualization**: Offers graphical representations of data and predictions.
 
 
 ## Installation
@@ -30,3 +31,4 @@ To set up the project locally, follow these steps:
 
   ```bash
   pip install -r requirements.txt
+  ```
