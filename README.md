@@ -45,9 +45,12 @@ To set up the project locally, follow these steps:
    jupyter lab
    ```
 
-2. **Run training or prediction scripts** *(if added later)*:
+2. **Run the command-line interface**:
 
    ```bash
-   python train.py     # train the model
-   python predict.py   # generate predictions
+   # Train the model
+   python weather_cli.py train <train_csv> <test_csv> <model_out>
+
+   # Generate predictions
+   python weather_cli.py predict <model_out> <test_csv> <predictions_csv>
    ```
