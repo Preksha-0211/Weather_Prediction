@@ -54,3 +54,7 @@ To set up the project locally, follow these steps:
    # Generate predictions
    python weather_cli.py predict <model_out> <test_csv> <predictions_csv>
    ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
