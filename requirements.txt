@@ -7,3 +7,6 @@ missingno
 scipy
 numpy
 joblib
+=======
+pytest
+
